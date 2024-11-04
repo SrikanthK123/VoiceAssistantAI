@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VoiceAssistantAI/static/css/main.9004f71e.css",
+    "main.css": "/VoiceAssistantAI/static/css/main.72d49bcc.css",
     "main.js": "/VoiceAssistantAI/static/js/main.6bede473.js",
     "static/js/453.8bf75fad.chunk.js": "/VoiceAssistantAI/static/js/453.8bf75fad.chunk.js",
     "static/media/RoboAvatar.png": "/VoiceAssistantAI/static/media/RoboAvatar.62d9a958a71dd54315b8.png",
     "index.html": "/VoiceAssistantAI/index.html",
-    "main.9004f71e.css.map": "/VoiceAssistantAI/static/css/main.9004f71e.css.map",
+    "main.72d49bcc.css.map": "/VoiceAssistantAI/static/css/main.72d49bcc.css.map",
     "main.6bede473.js.map": "/VoiceAssistantAI/static/js/main.6bede473.js.map",
     "453.8bf75fad.chunk.js.map": "/VoiceAssistantAI/static/js/453.8bf75fad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9004f71e.css",
+    "static/css/main.72d49bcc.css",
     "static/js/main.6bede473.js"
   ]
 }
