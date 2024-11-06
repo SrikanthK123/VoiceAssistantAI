@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/VoiceAssistantAI/static/css/main.765b34fe.css",
-    "main.js": "/VoiceAssistantAI/static/js/main.433a2954.js",
+    "main.css": "/VoiceAssistantAI/static/css/main.ad214c28.css",
+    "main.js": "/VoiceAssistantAI/static/js/main.8d08362b.js",
     "static/js/453.8bf75fad.chunk.js": "/VoiceAssistantAI/static/js/453.8bf75fad.chunk.js",
     "static/media/ExternalPageRobo.png": "/VoiceAssistantAI/static/media/ExternalPageRobo.c2bb0b6d3fdedc00f436.png",
     "static/media/RoboAvatar.png": "/VoiceAssistantAI/static/media/RoboAvatar.62d9a958a71dd54315b8.png",
     "static/media/Error.png": "/VoiceAssistantAI/static/media/Error.dc0a3815cc910adb2fa3.png",
     "index.html": "/VoiceAssistantAI/index.html",
-    "main.765b34fe.css.map": "/VoiceAssistantAI/static/css/main.765b34fe.css.map",
-    "main.433a2954.js.map": "/VoiceAssistantAI/static/js/main.433a2954.js.map",
+    "main.ad214c28.css.map": "/VoiceAssistantAI/static/css/main.ad214c28.css.map",
+    "main.8d08362b.js.map": "/VoiceAssistantAI/static/js/main.8d08362b.js.map",
     "453.8bf75fad.chunk.js.map": "/VoiceAssistantAI/static/js/453.8bf75fad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.765b34fe.css",
-    "static/js/main.433a2954.js"
+    "static/css/main.ad214c28.css",
+    "static/js/main.8d08362b.js"
   ]
 }
